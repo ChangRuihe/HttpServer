@@ -42,8 +42,5 @@ int main(int argc, char *argv[])
 	printf("\n");
 	
 	close(sockfd);
-	return 0;
-
-	
-
+	return 1;
 }
